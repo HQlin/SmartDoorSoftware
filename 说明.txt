@@ -1,0 +1,15 @@
+1.结构介绍：
+build：Release已发布软件
+enigmavb.exe：打包发布文件工具
+SmartDoorSoftware：软件工程
+qt-unified-windows-x86-3.0.6-online.exe：qt环境安装软件
+QtCreator快速入门.pdf：QT入门学习资料
+SmartDoorSoftware_boxed.exe：已打包的软件（演示使用这个exe就可以了）
+2.开发环境：Qt Creator 4.8.0 (Community)+5.12.0
+
+3.QT入门学习资料：http://shouce.jb51.net/qt-beginning/
+4.所有版本QT下载地址 ：http://download.qt.io/archive/qt/
+5. 所有Qt Creator下载地址：http://download.qt.io/archive/qtcreator/
+6. 所有Qt VS开发插件下载地址：http://download.qt.io/archive/vsaddin/
+7.Qt官网镜像下载地址：http://download.qt.io/
+8.工程发布及打包：https://blog.csdn.net/windsnow1/article/details/78004265
